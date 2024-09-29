@@ -42,3 +42,12 @@ source ./activate
 ```
 pip install -r requirements.txt
 ```
+
+## Running Jupyter Notebook
+
+To run Jupyter Notebook, use the following command:
+
+```bash
+jupyter notebook
+```
+This will start the Jupyter Notebook server, and you can access it in your web browser by following the provided URL.
